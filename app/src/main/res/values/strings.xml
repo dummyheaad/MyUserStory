@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">MyUserStory</string>
+
+    <string name="delay_milis">2000</string>
+
+    <!--
+    Splash Screen Activity
+-->
+    <string name="app_icon">App Icon</string>
+    <string name="app_text">App Text</string>
+    <string name="splash_delay">3000</string>
+
+    <!--
+    Sign In Activity
+    -->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_icon_desc">Sign In Icon</string>
+    <string name="sign_in_desc_1">Welcome Back!</string>
+    <string name="sign_in_desc_2">Please sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="invalid_email">Invalid Email Format</string>
+    <string name="email_hint">Input your email</string>
+    <string name="password">Password</string>
+    <string name="invalid_password">The password should contain at least 8 characters</string>
+    <string name="password_hint">Input your password</string>
+    <string name="ask_register">Don\'t have an account?</string>
+    <string name="ask_sign_up">Sign Up</string>
+    <string name="sign_in_status_title">Login Status</string>
+    <string name="sign_in_status_success">Login Successful</string>
+    <string name="sign_in_status_user_not_found">User not found!</string>
+
+    <!--
+    Sign Up Activity
+    -->
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_icon_desc">Sign Up Icon</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Input your name</string>
+    <string name="sign_up_status_title">Sign Up Status</string>
+    <string name="sign_up_status_success">Your account has been successfully created!</string>
+    <string name="sign_up_used_email">Email has been used!</string>
+
+
+    <!--
+    Sign Out
+    -->
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_out_status_title">Logout Status</string>
+    <string name="sign_out_status_success">Logout Successful</string>
+
+    <!--
+    Main Activity
+    -->
+    <string name="dashboard_title">List User Story</string>
+    <string name="change_language_setting">Language Setting</string>
+    <string name="user_story_icon">User Story Icon</string>
+    <string name="user_story_name">Name</string>
+    <string name="user_story_photo">User Story Photo</string>
+    <string name="user_story_description">Description</string>
+    <string name="user_story_created">Time Created</string>
+
+    <!--
+    Detail Activity
+    -->
+    <string name="detail_title">Detail User Story</string>
+    <string name="detail_location">Location</string>
+    <string name="detail_location_icon">Detail User Location Icon</string>
+    <string name="no_detail_location">No Location Data Provided</string>
+    <!--
+    Add New User Story Activity
+    -->
+    <string name="add_title">Add New User Story</string>
+    <string name="add_photo">Add User Story Photo</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="pick_photo">Choose an Image</string>
+    <string name="add_description">Tap to add description…</string>
+    <string name="upload">Upload</string>
+    <string name="hint_description">Description must be added</string>
+    <string name="hint_image">Image must be chosen</string>
+    <string name="add_location">Add Location</string>
+
+    <!--
+    Camera Activity
+    -->
+    <string name="capture">Capture</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="camera_bring_up_failed">Failed to bring up the camera</string>
+    <string name="take_picture_failed">Failed to take a picture</string>
+    <string name="permission">Permission not granted</string>
+
+    <!--
+    Maps Activity
+    -->
+    <string name="display_map">Display Map</string>
+    <string name="list_user_location">List User Location</string>
+    <string name="location_not_found">Location is not found. Try Again</string>
+    <string name="my_place">My Place</string>
+
+    <!--
+    Item Loading
+    -->
+    <string name="timeout">Timeout</string>
+    <string name="retry">Retry</string>
+</resources>

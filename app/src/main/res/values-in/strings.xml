@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyUserStory</string>
+
+    <string name="delay_milis">2000</string>
+
+    <!--
+    Splash Screen Activity
+    -->
+    <string name="app_icon">Ikon Aplikasi</string>
+    <string name="app_text">Teks Aplikasi</string>
+    <string name="splash_delay">3000</string>
+
+    <!--
+    Sign In Activity
+    -->
+    <string name="sign_in">Masuk</string>
+    <string name="sign_in_icon_desc">Ikon Masuk</string>
+    <string name="sign_in_desc_1">Selamat datang kembali!</string>
+    <string name="sign_in_desc_2">Silakan masuk untuk melanjutkan</string>
+    <string name="email">Email</string>
+    <string name="invalid_email">Format Email Tidak Valid</string>
+    <string name="email_hint">Masukkan email kamu</string>
+    <string name="password">Password</string>
+    <string name="invalid_password">Password harus mengandung setidaknya 8 karakter</string>
+    <string name="password_hint">Masukkan password kamu</string>
+    <string name="ask_register">Belum memiliki akun?</string>
+    <string name="ask_sign_up">Daftar</string>
+    <string name="sign_in_status_title">Status Login</string>
+    <string name="sign_in_status_success">Login Berhasil</string>
+    <string name="sign_in_status_user_not_found">User tidak ditemukan!</string>
+
+    <!--
+    Sign Up Activity
+    -->
+    <string name="sign_up">Daftar</string>
+    <string name="sign_up_icon_desc">Ikon Daftar</string>
+    <string name="name">Nama</string>
+    <string name="name_hint">Masukkan nama kamu</string>
+    <string name="sign_up_status_title">Status Daftar</string>
+    <string name="sign_up_status_success">Akun kamu telah berhasil dibuat!</string>
+    <string name="sign_up_used_email">Email telah digunakan!</string>
+
+
+    <!--
+    Sign Out
+    -->
+    <string name="sign_out">Logout</string>
+    <string name="sign_out_status_title">Status Logout</string>
+    <string name="sign_out_status_success">Logout Berhasil</string>
+
+    <!--
+    Main Activity
+    -->
+    <string name="dashboard_title">Daftar User Story</string>
+    <string name="change_language_setting">Pengaturan Bahasa</string>
+    <string name="user_story_icon">Ikon User Story</string>
+    <string name="user_story_name">Nama</string>
+    <string name="user_story_photo">Foto User Story</string>
+    <string name="user_story_description">Deskripsi</string>
+    <string name="user_story_created">Waktu dibuat</string>
+
+    <!--
+    Detail Activity
+    -->
+    <string name="detail_title">Detail User Story</string>
+    <string name="detail_location">Lokasi</string>
+    <string name="detail_location_icon">Ikon Detail Lokasi User</string>
+    <string name="no_detail_location">Data Lokasi Tidak Tersedia</string>
+    <string name="add_location">Tambah Lokasi</string>
+
+    <!--
+    Add New User Story Activity
+    -->
+    <string name="add_title">Tambah User Story Baru</string>
+    <string name="add_photo">Foto Tambah User Story Baru</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="pick_photo">Pilih sebuah gambar</string>
+    <string name="add_description">Tap untuk menambah deskripsi…</string>
+    <string name="upload">Unggah</string>
+    <string name="hint_description">Description harus diisi</string>
+    <string name="hint_image">Gambar harus dipilih</string>
+
+    <!--
+    Camera Activity
+    -->
+    <string name="capture">Tangkap</string>
+    <string name="switch_camera">Ganti Kamera</string>
+    <string name="camera_bring_up_failed">Gagal mengaktifkan kamera</string>
+    <string name="take_picture_failed">Gagal mengambil gambar</string>
+    <string name="permission">Izin tidak diberikan</string>
+
+    <!--
+    Maps Activity
+    -->
+    <string name="display_map">Tampilkan Map</string>
+    <string name="list_user_location">Daftar Lokasi User</string>
+    <string name="location_not_found">Lokasi tidak ditemukan. Silakan coba lagi</string>
+    <string name="my_place">Tempat Tinggal ku</string>
+
+    <!--
+    Item Loading
+    -->
+    <string name="timeout">Timeout</string>
+    <string name="retry">Coba lagi</string>
+</resources>

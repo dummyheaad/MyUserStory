@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyUserStory</string>
+
+    <string name="delay_milis">2000</string>
+
+    <!--
+    Splash Screen Activity
+    -->
+    <string name="app_icon">アプリのアイコン</string>
+    <string name="app_text">アプリ テキスト</string>
+    <string name="splash_delay">3000</string>
+
+    <!--
+    Sign In Activity
+    -->
+    <string name="sign_in">ログイン</string>
+    <string name="sign_in_icon_desc">サインイン アイコン</string>
+    <string name="sign_in_desc_1">おかえり！</string>
+    <string name="sign_in_desc_2">続行するにはサインインしてください</string>
+    <string name="email">Eメール</string>
+    <string name="invalid_email">メール形式が無効です</string>
+    <string name="email_hint">メールアドレスを入力してください</string>
+    <string name="password">パスワード</string>
+    <string name="invalid_password">パスワードは 8 文字以上にする必要があります</string>
+    <string name="password_hint">パスワードを入力してください</string>
+    <string name="ask_register">アカウントを持っていませんか?</string>
+    <string name="ask_sign_up">サインアップ</string>
+    <string name="sign_in_status_title">ログイン状態</string>
+    <string name="sign_in_status_success">ログイン成功</string>
+    <string name="sign_in_status_user_not_found">ユーザーが見つかりません！</string>
+
+    <!--
+    Sign Up Activity
+    -->
+    <string name="sign_up">サインアップ</string>
+    <string name="sign_up_icon_desc">サインアップ アイコン</string>
+    <string name="name">名前</string>
+    <string name="name_hint">Iあなたの名前を入力してください</string>
+    <string name="sign_up_status_title">サインアップ状況</string>
+    <string name="sign_up_status_success">アカウントが正常に作成されました！</string>
+    <string name="sign_up_used_email">メールが利用されました！</string>
+
+
+    <!--
+    Sign Out
+    -->
+    <string name="sign_out">サインアウト</string>
+    <string name="sign_out_status_title">ログアウト状態</string>
+    <string name="sign_out_status_success">ログアウト成功</string>
+
+    <!--
+    Main Activity
+    -->
+    <string name="dashboard_title">ユーザー ストーリーの一覧表示</string>
+    <string name="change_language_setting">言語設定</string>
+    <string name="user_story_icon">ユーザー ストーリー アイコン</string>
+    <string name="user_story_name">名前</string>
+    <string name="user_story_photo">ユーザーストーリーの写真</string>
+    <string name="user_story_description">説明</string>
+    <string name="user_story_created">作成時間</string>
+
+    <!--
+    Detail Activity
+    -->
+    <string name="detail_title">詳細なユーザー ストーリー</string>
+    <string name="detail_location">位置</string>
+    <string name="detail_location_icon">詳細ユーザー位置アイコン</string>
+    <string name="no_detail_location">位置データは提供されません</string>
+    <string name="add_location">場所を追加</string>
+
+    <!--
+    Add New User Story Activity
+    -->
+    <string name="add_title">新しいユーザー ストーリーを追加</string>
+    <string name="add_photo">ユーザーストーリーの写真を追加</string>
+    <string name="camera">カメラ</string>
+    <string name="gallery">ギャラリー</string>
+    <string name="pick_photo">画像を選択</string>
+    <string name="add_description">タップして説明を追加…</string>
+    <string name="upload">アップロード</string>
+    <string name="hint_description">説明を追加する必要があります</string>
+    <string name="hint_image">画像を選択する必要があります</string>
+
+    <!--
+    Camera Activity
+    -->
+    <string name="capture">捕獲</string>
+    <string name="switch_camera">カメラの切り替え</string>
+    <string name="camera_bring_up_failed">カメラの起動に失敗しました</string>
+    <string name="take_picture_failed">写真を撮れませんでした</string>
+    <string name="permission">権限がありません</string>
+
+    <!--
+    Maps Activity
+    -->
+    <string name="display_map">地図を表示する</string>
+    <string name="list_user_location">ユーザーの場所をリストする</string>
+    <string name="location_not_found">場所が見つかりません。 再試行する</string>
+    <string name="my_place">私の場所</string>
+
+    <!--
+    Item Loading
+    -->
+    <string name="timeout">タイムアウト</string>
+    <string name="retry">リトライ</string>
+</resources>

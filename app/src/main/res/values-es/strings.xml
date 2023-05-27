@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyUserStory</string>
+
+    <string name="delay_milis">2000</string>
+
+    <!--
+    Splash Screen Activity
+    -->
+    <string name="app_icon">Icono de la aplicación</string>
+    <string name="app_text">Texto de la aplicación</string>
+    <string name="splash_delay">3000</string>
+
+    <!--
+    Sign In Activity
+    -->
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="sign_in_icon_desc">Icono de inicio de sesión</string>
+    <string name="sign_in_desc_1">¡Bienvenido de nuevo!</string>
+    <string name="sign_in_desc_2">Por favor inicie sesión para continuar</string>
+    <string name="email">Correo electrónico</string>
+    <string name="invalid_email">Formato de correo inválido</string>
+    <string name="email_hint">Ingrese su correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="invalid_password">La contraseña debe contener al menos 8 caracteres.</string>
+    <string name="password_hint">Ingrese su contraseña</string>
+    <string name="ask_register">¿No tienes una cuenta?</string>
+    <string name="ask_sign_up">Inscribirse</string>
+    <string name="sign_in_status_title">Estado de inicio de sesión</string>
+    <string name="sign_in_status_success">Inicio de sesión exitoso</string>
+    <string name="sign_in_status_user_not_found">¡Usuario no encontrado!</string>
+
+    <!--
+    Sign Up Activity
+    -->
+    <string name="sign_up">Inscribirse</string>
+    <string name="sign_up_icon_desc">Icono de registro</string>
+    <string name="name">Nombre</string>
+    <string name="name_hint">Ingrese su nombre</string>
+    <string name="sign_up_status_title">Estado de registro</string>
+    <string name="sign_up_status_success">Su cuenta ha sido creada satisfactoriamente!</string>
+    <string name="sign_up_used_email">¡Se ha utilizado el correo electrónico!</string>
+
+
+    <!--
+    Sign Out
+    -->
+    <string name="sign_out">Desconectar</string>
+    <string name="sign_out_status_title">Estado de cierre de sesión</string>
+    <string name="sign_out_status_success">Cierre de sesión exitoso</string>
+
+    <!--
+    Main Activity
+    -->
+    <string name="dashboard_title">Mostrar historia de usuario</string>
+    <string name="change_language_setting">Configuración de idioma</string>
+    <string name="user_story_icon">Icono de historia de usuario</string>
+    <string name="user_story_name">Nombre</string>
+    <string name="user_story_photo">Foto de historia de usuario</string>
+    <string name="user_story_description">Descripción</string>
+    <string name="user_story_created">tiempo creado</string>
+
+    <!--
+    Detail Activity
+    -->
+    <string name="detail_title">Historia de usuario detallada</string>
+    <string name="detail_location">Ubicación</string>
+    <string name="detail_location_icon">Icono de ubicación de usuario detallado</string>
+    <string name="no_detail_location">No se proporcionaron datos de ubicación</string>
+    <string name="add_location">Agregar Direccion</string>
+
+    <!--
+    Add New User Story Activity
+    -->
+    <string name="add_title">Agregar nueva historia de usuario</string>
+    <string name="add_photo">Agregar foto de historia de usuario</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galería</string>
+    <string name="pick_photo">Elige una imagen</string>
+    <string name="add_description">Toque para agregar una descripción…</string>
+    <string name="upload">Subir</string>
+    <string name="hint_description">Se debe agregar una descripción</string>
+    <string name="hint_image">La imagen debe ser elegida</string>
+
+    <!--
+    Camera Activity
+    -->
+    <string name="capture">Captura</string>
+    <string name="switch_camera">Cambiar cámara</string>
+    <string name="camera_bring_up_failed">Error al abrir la cámara</string>
+    <string name="take_picture_failed">No se pudo tomar una foto</string>
+    <string name="permission">Permiso no concedido</string>
+
+    <!--
+    Maps Activity
+    -->
+    <string name="display_map">Mostrar Mapa</string>
+    <string name="list_user_location">Mostrar Ubicación de Usuario</string>
+    <string name="location_not_found">No se encuentra la ubicación. Intentar otra vez</string>
+    <string name="my_place">Mi lugar</string>
+
+    <!--
+    Item Loading
+    -->
+    <string name="timeout">Se acabó el tiempo</string>
+    <string name="retry">Rever</string>
+</resources>
